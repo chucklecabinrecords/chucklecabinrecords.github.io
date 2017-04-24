@@ -1,8 +1,11 @@
 ---
 layout: default
-img: ipad.png
+img: logossquare.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: What we do
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+We are a new digital record label hosting events and recording and distributing live comedy albums on a heap of awesome platforms.
+
+We are looking to looking to work with some of the best up and coming Australian comedians and share their work with the world. Join our mailing list to get updates and sweet freebies when we release stuff
+
