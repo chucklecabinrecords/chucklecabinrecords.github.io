@@ -1,12 +1,14 @@
 ---
 layout: default
-img: dog.png
+img: records1.jpeg
 category: Services
 title: Like Free Stuff?
 description: |
 ---
 
 Sign up to our mailing list!
+
+Get freebies, discounts, label news and exclusive access to our newest releases all in your inbox.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css" />
