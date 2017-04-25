@@ -3,6 +3,7 @@ layout: default
 img: records1.jpeg
 category: Services
 title: Mailing List
+section: mailinglist
 description: |
 ---
 

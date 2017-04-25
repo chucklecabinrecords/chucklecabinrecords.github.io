@@ -3,6 +3,7 @@ layout: default
 img: soxsandalz.png
 category: Services
 title: Our Supporters
+section: supporters
 description: |
 ---
 Chuckle Cabin Records is supported by these awesome pals

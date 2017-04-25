@@ -3,6 +3,7 @@ layout: default
 img: SimonCircle.png
 category: Services
 title: Our Team
+section: team
 description: |
 ---
 **Simon Cumming** - **Founder**

@@ -3,6 +3,7 @@ layout: default
 img: logossquare.png
 category: Services
 title: What we do
+section: about
 description: |
 ---
 We are a new digital record label hosting events and recording and distributing live comedy albums on a heap of awesome platforms.
