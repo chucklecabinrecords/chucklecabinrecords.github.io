@@ -1,0 +1,10 @@
+---
+layout: default
+img: soxsandalz.png
+category: Services
+title: Our Supporters
+description: |
+---
+Chuckle Cabin Records is supported by these awesome pals
+
+* **Sox and Sandalz**

@@ -1,8 +1,10 @@
 ---
 layout: default
-img: phones.png
+img: SimonCircle.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Our Team
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+**Simon Cumming** - **Founder**
+
+Simon has been doing standup comedy and running comedy rooms in melbourne for 4 years.

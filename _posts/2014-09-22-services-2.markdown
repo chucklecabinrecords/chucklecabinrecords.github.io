@@ -2,11 +2,11 @@
 layout: default
 img: records1.jpeg
 category: Services
-title: Like Free Stuff?
+title: Mailing List
 description: |
 ---
 
-Sign up to our mailing list!
+Like freebies? Sign up to our mailing list!
 
 Get freebies, discounts, label news and exclusive access to our newest releases all in your inbox.
 
