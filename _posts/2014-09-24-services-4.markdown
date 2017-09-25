@@ -2,8 +2,10 @@
 layout: default
 img: soxsandalz.png
 category: Services
-title: Events
-section: events
+title: Our Supporters
+section: supporters
 description: |
 ---
-Chuckle Cabin Records is producing **Laura Davis's**
+Chuckle Cabin Records is supported by these awesome pals
+
+* **Sox and Sandalz** 
