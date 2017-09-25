@@ -3,7 +3,7 @@ layout: default
 img: chucklecabin2.png
 category: Services
 title: Our Label
-section: supporters
+section: about
 description: |
 ---
 Every year 100s of hours of new Australian comedy gets made and then it disappears. Chuckle Cabin is here to preserve some of that awesomeness and share it with the world.
