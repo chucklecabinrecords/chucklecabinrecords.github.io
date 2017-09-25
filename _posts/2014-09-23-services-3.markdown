@@ -6,6 +6,6 @@ title: Our Team
 section: team
 description: |
 ---
-**Simon Cumming** - **Founder**
+**Simon Cumming**
 
 Simon has been doing standup comedy and running comedy rooms in melbourne for 4 years.
