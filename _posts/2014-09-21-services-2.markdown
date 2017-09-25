@@ -2,7 +2,7 @@
 layout: default
 img: download.jpeg
 category: Services
-title: Events
+title: Laura Davis Album Recording
 section: events
 description: |
 ---
@@ -12,13 +12,17 @@ Chuckle Cabin Records is producing award winning comedian **Laura Davis's** debu
 
 
 October 28th 2017
+
 7pm & 8.30pm
+
 Club Voltaire
+
 Upstairs 14 Raglan Street, North Melbourne
 
 
 
 Early Bird: $10
+
 Full: $15
 
 
