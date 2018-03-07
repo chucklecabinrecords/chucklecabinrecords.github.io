@@ -1,12 +1,12 @@
 ---
 layout: default
-img: cd.png
+img: CD.png
 category: Services
 title: Releases - Laura Davis - Cake in The Rain
 section: releases
 description: |
 ---
-Chuckle Cabin Records have released our first album, Laura Davis - Cake in The Rain.
+Chuckle Cabin Records have released our first album, **Laura Davis - Cake in The Rain**.
 
 It's available to purchase now via [lauradaviscomedy.com](http://lauradaviscomedy.com/new-products/)
 
