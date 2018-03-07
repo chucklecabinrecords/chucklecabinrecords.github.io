@@ -2,7 +2,7 @@
 layout: default
 img: cd.png
 category: Services
-title: Laura Davis Album Recording
+title: Releases - Laura Davis - Cake in The Rain
 section: releases
 description: |
 ---
