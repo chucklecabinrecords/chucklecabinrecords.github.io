@@ -1,30 +1,13 @@
 ---
 layout: default
-img: download.jpeg
+img: cd.png
 category: Services
 title: Laura Davis Album Recording
-section: events
+section: releases
 description: |
 ---
-Chuckle Cabin Records is producing award winning comedian **Laura Davis's** debut album! The album will be recorded in Melbourne across two shows on October 28th and you can buy tickets via the link below.
+Chuckle Cabin Records have released our first album, Laura Davis - Cake in The Rain.
 
+It's available to purchase now via [lauradaviscomedy.com](http://lauradaviscomedy.com/new-products/)
 
-
-
-October 28th 2017
-
-7pm & 8.30pm
-
-Club Voltaire
-
-Upstairs 14 Raglan Street, North Melbourne
-
-
-
-Early Bird: $10
-
-Full: $15
-
-
-
-<a href="https://www.eventbrite.co.uk/e/laura-davis-live-comedy-album-recording-tickets-37059829949?ref=ebtnebtckt" target="_blank"><img src="https://www.eventbrite.co.uk/custombutton?eid=37059829949" alt="Eventbrite - Laura Davis - Live Comedy Album Recording" /></a>
+We are also going to be releasing some awesome t-shirts via a crowd funding campaign so watch out for that soon.
