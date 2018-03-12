@@ -1,0 +1,15 @@
+---
+layout: default
+img: cdtshirt.png
+category: Services
+title: T-Shirts Crowdfunding Campaign
+section: releases
+description: |
+---
+We are releasing some awesome T-Shirts via a crowdfunding campaign.
+
+The funds raised will help us register with ARIA to nominate Laura Davis - Cake in the Rain for 'Best Comedy Release' at this year's awards.
+
+We also have copies of Cake in the Rain and a bunch of other great perks you can pick up. Check it out at the link below.
+
+<iframe src="https://www.indiegogo.com/project/register-chuckle-cabin-laura-davis-for-the-arias/embedded/18119750" width="222px" height="445px" frameborder="0" scrolling="no"></iframe>
