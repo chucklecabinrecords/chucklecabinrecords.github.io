@@ -1,0 +1,36 @@
+---
+layout: default
+img: CD.png
+category: Events
+title: Events - Jack Druce - Kitchen Bird - Album Recording
+section: events
+description: |
+---
+Chuckle Cabin Records are producing our second album **Jack Druce - Kitchen Bird** and we'd love you to come along.
+
+Thursday 2nd August
+Caz Reitop's Dirty Secrets
+80 Smith St Collingwood
+
+Tickets are on sale now via Eventbrite 
+
+<div id="eventbrite-widget-container-46923895635"></div>
+
+<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+var exampleCallback = function() {
+console.log('Order complete!');
+};
+
+window.EBWidgets.createWidget({
+// Required
+widgetType: 'checkout',
+eventId: '46923895635',
+iframeContainerId: 'eventbrite-widget-container-46923895635',
+
+// Optional
+iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+});
+</script>
