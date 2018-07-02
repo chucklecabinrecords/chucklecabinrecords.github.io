@@ -1,11 +1,11 @@
 ---
 layout: default
-img: cdtshirt.png
+img: totebluelow.jpeg
 category: Services
 title: Merch!
 section: Merch
 description: |
 ---
-We have some awesome T-Shirts up for sale right now.
+After a super succesful run of t-shirts we're bringing out a range of Chuckle Cabin Records totes!
 
-You can buy them using the buttons below.
+Signup to our mailing list below to be first to get your hands on one when they get released!
