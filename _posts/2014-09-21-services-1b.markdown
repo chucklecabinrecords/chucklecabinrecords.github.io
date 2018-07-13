@@ -36,3 +36,5 @@ iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum o
 onOrderComplete: exampleCallback  // Method called when an order has successfully completed
 });
 </script>
+
+Tickets also available on the door for $15 (Cash & Eftpos)
