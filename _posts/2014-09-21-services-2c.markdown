@@ -3,7 +3,7 @@ layout: default
 img: totebluelow.jpeg
 category: Services
 title: Merch!
-section: Merch
+section: merch
 description: |
 ---
 After a super succesful run of t-shirts we're bringing out a range of Chuckle Cabin Records totes!
