@@ -1,40 +1,13 @@
 ---
 layout: default
-img: Kitchen Bird 1.jpeg
+img: kitchen bird out post.png
 category: Events
-title: Events - Jack Druce - Kitchen Bird - Album Recording
-section: events
+title: Jack Druce - Kitchen Bird Album Out Now
+section: releases
 description: |
 ---
-Chuckle Cabin Records are producing our second album **Jack Druce - Kitchen Bird** and we'd love you to come along!
+Chuckle Cabin Records second album **Jack Druce - Kitchen Bird** is out now!
 
-Thursday 2nd August
+The album is available now to purchase via [Bandcamp](https://jackdrucecomedy.bandcamp.com/album/kitchen-bird)
 
-Caz Reitop's Dirty Secrets
-
-80 Smith St Collingwood
-
-Tickets are on sale now:
-
-<div id="eventbrite-widget-container-46923895635"></div>
-
-<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-var exampleCallback = function() {
-console.log('Order complete!');
-};
-
-window.EBWidgets.createWidget({
-// Required
-widgetType: 'checkout',
-eventId: '46923895635',
-iframeContainerId: 'eventbrite-widget-container-46923895635',
-
-// Optional
-iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-});
-</script>
-
-Tickets also available on the door for $15 (Cash & Eftpos)
+The album will also be released via Spotify, Apple Music, Amazon Music, Google Play and a variety of other streaming services on the 26th of June
