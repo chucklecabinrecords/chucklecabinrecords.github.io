@@ -1,8 +1,8 @@
 ---
 layout: default
 img: kitchen bird out post.png
-category: Events
-title: Jack Druce - Kitchen Bird Album Out Now
+category: Releases
+title: Releases - Jack Druce - Kitchen Bird
 section: releases
 description: |
 ---
