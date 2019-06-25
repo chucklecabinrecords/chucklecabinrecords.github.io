@@ -1,0 +1,16 @@
+---
+layout: default
+img: kitchen bird out post.png
+category: Releases
+title: Releases - Jack Druce - Good/Cool Stand Up Album
+section: releases
+description: |
+---
+**Jack Druce - Good/Cool Stand Up Album** is out now!
+
+The album is a first time audio release of Jack's 2016 comedy special released as a bonus to go along with his debut album **Kitchen Bird**
+
+The album is available now to purchase via [Bandcamp](https://jackdrucecomedy.bandcamp.com/album/good-cool-stand-up-album)
+or to stream via [Spotify](https://open.spotify.com/album/7MktIgjzTSsIsCXPajguok),Apple Music, Amazon Music, Google Play and a variety of other streaming services.
+
+<iframe src="https://open.spotify.com/embed/album/7MktIgjzTSsIsCXPajguok" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
