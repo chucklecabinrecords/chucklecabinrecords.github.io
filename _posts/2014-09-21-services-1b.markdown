@@ -11,4 +11,4 @@ Chuckle Cabin Records second album **Jack Druce - Kitchen Bird** is out now!
 The album is available now to purchase via [Bandcamp](https://jackdrucecomedy.bandcamp.com/album/kitchen-bird)
 or to stream via [Spotify](https://open.spotify.com/album/1Bbz8jAUHdHonf1qYhXDa2),Apple Music, Amazon Music, Google Play and a variety of other streaming services.
 
-<iframe src="https://open.spotify.com/embed/album/1Bbz8jAUHdHonf1qYhXDa2" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/1Bbz8jAUHdHonf1qYhXDa2" width="300" height="250" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
