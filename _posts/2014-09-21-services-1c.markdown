@@ -1,6 +1,6 @@
 ---
 layout: default
-img: kitchen bird out post.png
+img: 2016 album.jpg
 category: Releases
 title: Releases - Jack Druce - Good/Cool Stand Up Album
 section: releases
